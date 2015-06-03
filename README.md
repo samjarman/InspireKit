@@ -5,9 +5,9 @@ This library flashes an image of Shia LaBeouf while reciting a line from the [im
 
 
 ## Installation
-**Cocoa Pod coming soon!** 
+Cocoapods: **Cocoa Pod coming soon!** 
 
-Copy `/InspireKit/*` to your App's directory. 
+Manually: Copy `/InspireKit/*` to your App's directory. Link to AVFoundation. 
 
 ## Usage
 `InspireKit *inspireKit = [InspireKit alloc] initWithTargetView:self.view]; // Pass it a view to present images on`
