@@ -1,9 +1,12 @@
 # InspireKit
-Inspire your users with the wise words of Shia Labeouf 
+Inspire your users with the wise words of Shia LaBeouf. 
+
+This library flashes an image of Shia LaBeouf while reciting a line from the [imfamous video](https://www.youtube.com/watch?v=nuHfVn_cfHU). The combination of sound and image is random. Simply drop into your app and inspire your users. 
 
 
 ## Installation
-Cocoa Pod coming soon
+**Cocoa Pod coming soon!** 
+
 Copy `/InspireKit/*` to your App's directory. 
 
 ## Usage
