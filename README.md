@@ -1,16 +1,26 @@
 # InspireKit
 Inspire your users with the wise words of Shia LaBeouf. 
 
-This library flashes an image of Shia LaBeouf while reciting a line from the [imfamous video](https://www.youtube.com/watch?v=nuHfVn_cfHU). The combination of sound and image is random. Simply drop into your app and inspire your users. 
+This library flashes an image of Shia LaBeouf while reciting a line from the [infamous video](https://www.youtube.com/watch?v=nuHfVn_cfHU). The combination of sound and image is random. Simply drop into your app and inspire your users. 
+
+![](Assets/inspire-small.png)
 
 
 ## Installation
-Cocoapods: **Cocoa Pod coming soon!** 
+- CocoaPods: 
 
-Manually: Copy `/InspireKit/*` to your App's directory. Link to AVFoundation. 
+``` ruby
+pod 'InspireKit'
+```
+
+- Manually: 
+
+Copy `/InspireKit/*` to your App's directory. Link to AVFoundation. 
 
 ## Usage
-`InspireKit *inspireKit = [InspireKit alloc] initWithTargetView:self.view]; // Pass it a view to present images on`
+``` objc
+InspireKit *inspireKit = [InspireKit alloc] initWithTargetView:self.view]; // Pass it a view to present images on
+```
 
 Then, simply: 
 `[inspireKit inspire];`
