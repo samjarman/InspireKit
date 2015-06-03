@@ -1,7 +1,22 @@
 # InspireKit
 Inspire your users with the wise words of Shia LaBeouf. 
 
-This library flashes an image of Shia LaBeouf while reciting a line from the [infamous video](https://www.youtube.com/watch?v=nuHfVn_cfHU). The combination of sound and image is random. Simply drop into your app and inspire your users. 
+This library flashes an image of Shia LaBeouf while reciting a line from the [infamous video](https://www.youtube.com/watch?v=nuHfVn_cfHU). 
+
+Advice sound bites include:
+
+* DO IT!
+* If you're tired of starting voer, stop giving up! 
+* JUST DO IT!
+* Make your dreams come true
+* Nothing is impossible 
+* What are you waiting for!?
+* Yesterday you said tomorrow
+* Yes you can!
+justdoit.aiff
+* Anyone else would quit, and you're not gonna stop there!
+
+The combination of sound and image is random. Simply drop into your app and inspire your users. 
 
 ![](Assets/inspire-small.png)
 
