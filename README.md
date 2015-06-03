@@ -6,7 +6,7 @@ This library flashes an image of Shia LaBeouf while reciting a line from the [in
 Advice sound bites include:
 
 * DO IT!
-* If you're tired of starting voer, stop giving up! 
+* If you're tired of starting over, stop giving up! 
 * JUST DO IT!
 * Make your dreams come true
 * Nothing is impossible 
