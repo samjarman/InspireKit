@@ -48,3 +48,6 @@ Then, simply:
 The segment of video was found [here](https://vimeo.com/125095515) and was released under a [Creative Commons Attribution Non-Commercial Share-Alike licence](http://creativecommons.org/licenses/by-nc-sa/3.0/) meaning you are free to remix and have as much fun as you like.
 
 Props to LaBeouf, Rönkkö & Turner in collaboration with Central Saint Martins BA Fine Art 2015 students. csmbafa15.co.uk
+
+## Sam, this is stupid. 
+Yes. Yes it is. But have you seen [DogeKit](https://github.com/samjarman/DogeKit)?!
