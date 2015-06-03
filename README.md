@@ -13,7 +13,6 @@ Advice sound bites include:
 * What are you waiting for!?
 * Yesterday you said tomorrow
 * Yes you can!
-justdoit.aiff
 * Anyone else would quit, and you're not gonna stop there!
 
 The combination of sound and image is random. Simply drop into your app and inspire your users. 
