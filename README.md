@@ -33,11 +33,12 @@ Copy `/InspireKit/*` to your App's directory. Link to AVFoundation.
 
 ## Usage
 ``` objc
-InspireKit *inspireKit = [InspireKit alloc] initWithTargetView:self.view]; // Pass it a view to present images on
-```
+// Init and pass it a view to present images on
+InspireKit *inspireKit = [[InspireKit alloc] initWithTargetView:self.view]; 
 
-Then, simply: 
-`[inspireKit inspire];`
+// Then simply
+[inspireKit inspire];
+```
 
 ## Roadmap (Feel free to send a PR)
 
